@@ -1,0 +1,24 @@
+####Can you identify the most inhabited Star Wars planet and largest type of species?
+
+
+Pre processing :
+
+1)Promoted Headers
+2 changed the data type of column
+3 Replaced Na values with avg of column
+
+characters 
+
+Q1.How many male and female characters
+Q2. Highest height characters (top 5)
+Q3.Total Homeworld / total characters
+Q4. Total Species
+Q5. total planets
+Q6.total terrans
+Q7. total climates
+Q8. Total population on all planest
+Q9.total languages
+Q10. Top 5 planet with heighest diameter
+
+
+
